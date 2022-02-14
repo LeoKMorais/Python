@@ -1,5 +1,4 @@
 # Python
-Some of my python projects/exercises
 
 Aqui estarei adicionando alguns dos projetos em python que estive desenvolvendo ou utilizando para estudar.
 ---
