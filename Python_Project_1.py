@@ -1,3 +1,16 @@
+#PROJETO 1 - JOGO DA VELHA
+"""""
+A proposta aqui é a elaboração de uma partida de jogo da velha, a ser jogada em duplas. 
+
+O jogo é jogado em um tabuleiro 3x3 por dois jogadores. O primeiro jogador é representado pelo símbolo **O**, enquanto o segundo jogador utiliza o símbolo **X**. 
+As jogadas são alternadas, preenchendo uma posição com o seu respectivo símbolo, sempre começando pelo jogador com o símbolo **O**. 
+Ganha o jogador que conseguir colocar 3 símbolos em linha no tabuleiro, seja na vertical, horizontal ou diagonal.  
+
+O seu objetivo nesse projeto é criar um jogo da velha em Python, onde os jogadores poderão informar suas posições pelo teclado e o tabuleiro será mostrado com um print após cada jogada. 
+Não serão utilizadas bibliotecas
+"""""
+
+
 def marca_posicao(p): #Função que marca o simbolo do jogador na posição escolhida
     if n_jog==1:
         posicao[p-1]=jogador1
